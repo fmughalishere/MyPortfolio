@@ -23,7 +23,7 @@ const Contact = () => {
             </div>
             <div className='mb-4'>
                 <FaMapMarkedAlt className='inline-block text-green-400 mr-2'></FaMapMarkedAlt>
-                <span>City, Procvince, Country</span>
+                <span>Lahore, Punjab, Pakistan</span>
             </div>
           </div>
           <div className='flex-1 w-full'>
